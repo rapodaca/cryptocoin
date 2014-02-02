@@ -29,7 +29,7 @@
     "convert-hex": "0.1.x",
     "ripemd160": "0.1.x",
     "btc-address": "0.2.x",
-    "eckey": "0.3.x",
+    "eckey": "0.2.1",
     "bigi": "0.2.x",
     "bs58": "0.2.x",
     "ecdsa": "~0.3.0",
